@@ -6,7 +6,7 @@ Ilia Yakubovsky - ilia.yakubovskiy@yandex.ru <br />
 
 Please, add tag **[BayesBootcamp]** to all the emails.
 
-Materials: <br />
+**Materials:** <br />
 1. *(russian)* Ветров Д.П., Кропотов Д.А. Байесовские методы машинного обучения: [часть 1](http://www.machinelearning.ru/wiki/images/e/e1/BayesML-2007-textbook-1.pdf), 
 [часть 2](http://www.machinelearning.ru/wiki/images/4/43/BayesML-2007-textbook-2.pdf).<br />
 2. *(russian)* [Wiki page of the Bayesian metods course at CS MSU](http://www.machinelearning.ru/wiki/index.php?title=%D0%91%D0%BC%D0%BC%D0%BE). <br />
