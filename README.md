@@ -9,8 +9,10 @@ Please, add tag **[BayesBootcamp]** to all the emails.
 Materials: <br />
 1. *(russian)* Ветров Д.П., Кропотов Д.А. Байесовские методы машинного обучения: [часть 1](http://www.machinelearning.ru/wiki/images/e/e1/BayesML-2007-textbook-1.pdf), 
 [часть 2](http://www.machinelearning.ru/wiki/images/4/43/BayesML-2007-textbook-2.pdf).<br />
-2. Christopher M. Bishop. [Pattern Recognition and Machine Learning]
+2. *(russian)* [Wiki page of the Bayesian metods course at CS MSU](http://www.machinelearning.ru/wiki/index.php?title=%D0%91%D0%BC%D0%BC%D0%BE). <br />
+3. Christopher M. Bishop. [Pattern Recognition and Machine Learning]
 (http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf).
+
 
 ## Syllabus  <br />
 **Day 1.** <br />
