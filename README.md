@@ -2,7 +2,7 @@
 <br />
 **Contacts**: <br />
 Ekaterina Lobacheva - lobacheva.tjulja@gmail.com  <br />
-Ilia Yakubovsky - TODO <br />
+Ilia Yakubovsky - ilia.yakubovskiy@yandex.ru <br />
 
 Please, add tag **[BayesBootcamp]** to all the emails.
 
