@@ -52,4 +52,5 @@ Please, add tag **[BayesBootcamp]** to all the emails.
 * [Variational dropout](https://arxiv.org/abs/1506.02557) 
 * [Soft Weight-Sharing for Neural Network Compression](https://arxiv.org/abs/1702.04008) 
 * [Variational Dropout Sparsifies Deep Neural Networks](https://arxiv.org/abs/1701.05369) 
+* [A Theoretically Grounded Application of Dropout in Recurrent Neural Networks](https://arxiv.org/abs/1512.05287)
 * Summary of the course.
